@@ -1,7 +1,18 @@
 {
     "manifest_version" : 2,
-    "name" : "SpeedAudio",
+    "name" : "Whatsapp Web Speed Audio",
     "version" : "0.1",
+    "description" : "Altere a velocidade dos audios no Whatsapp Web.",
+    "author" : "Rafael WMS",
+
+    "icons": {
+        "128" : "128.png"
+    },
+
+    "browser_action": {
+   	 "default_icon": "128.png"
+    },
+
     "content_scripts" : [
         {
             "matches" : ["https://web.whatsapp.com/"],
