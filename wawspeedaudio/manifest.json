@@ -1,7 +1,7 @@
 {
     "manifest_version" : 2,
     "name" : "Whatsapp Web Speed Audio",
-    "version" : "1.0.1",
+    "version" : "1.0.2",
     "description" : "Acelere ou desacelere os audios do Whatsapp Web.",
     "author" : "Rafael WMS",
 
