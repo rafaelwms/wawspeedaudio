@@ -65,7 +65,6 @@ const interval = setInterval(() => {
     }
 
     if (contacts) {
-        console.log(contacts)
         contacts.addEventListener("click", () => {
             resetSpeedLabel();
         })
