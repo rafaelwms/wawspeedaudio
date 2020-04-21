@@ -1,8 +1,8 @@
 {
     "manifest_version" : 2,
     "name" : "Whatsapp Web Speed Audio",
-    "version" : "0.1",
-    "description" : "Altere a velocidade dos audios no Whatsapp Web.",
+    "version" : "1.0.0",
+    "description" : "Uma alternativa para quem usa o Whatsapp Web pelo Chrome. Acelere aquele áudio longo para obter as informações mais rapidamente. Reduza a velocidade para aqueles audios que foram expressados muito rapidamente.",
     "author" : "Rafael WMS",
 
     "icons": {
