@@ -6,11 +6,17 @@
     "author" : "Rafael WMS",
 
     "icons": {
+        "20" : "20.png",
+        "40" : "40.png",
         "128" : "128.png"
     },
 
     "browser_action": {
-   	 "default_icon": "128.png"
+   	 "default_icon": {
+            "48": "48.png",
+            "128":"128.png",
+            "176": "176.png"
+        }
     },
 
     "content_scripts" : [
